@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaojenkuo/hr-data-parser-demo/master)
+
 # hr-data-parser-demo
 
 1. Copy all from `資料.docx` and paste into `xml_demo.xml`
